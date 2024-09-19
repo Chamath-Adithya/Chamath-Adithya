@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chamath Adithya (@Chamath5)
-- 👀 I’m interested in IoT solutions, automation, and software development.
+- 👀 I’m interested in IoT solutions, automation, software development, UI/UX design, PCB design, and web technologies.
 - 🌱 I’m currently learning advanced React and Next.js, as well as cloud integration for IoT projects.
 - 💞️ I’m looking to collaborate on innovative projects involving IoT, automation, and web development.
 - 📫 Feel free to reach out to me at [achamath1@gmail.com](mailto:achamath1@gmail.com)
