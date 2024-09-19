@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chamath5
+- 👋 Hi, I’m Chamath Adithya (@Chamath5)
 - 👀 I’m interested in IoT solutions, automation, and software development.
 - 🌱 I’m currently learning advanced React and Next.js, as well as cloud integration for IoT projects.
 - 💞️ I’m looking to collaborate on innovative projects involving IoT, automation, and web development.
-- 📫 How to reach me: You can reach me at chamath.adithya@solveo.com
+- 📫 Feel free to reach out to me at [achamath1@gmail.com](mailto:achamath1@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m always experimenting with new tech stacks and love automating everyday tasks with smart solutions!
 
