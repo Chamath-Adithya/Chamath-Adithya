@@ -195,15 +195,21 @@
 
 ## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
+<div align="center">
+  
+**My Top Programming Languages This Week:**
+
 ```text
-TypeScript   8 hrs 45 mins   ███████████░░░░░░░░░░░░░░   45.2%
-Python       4 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   21.7%
-JavaScript   3 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.1%
-C++          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.1%
-Shell        1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
+TypeScript   ████████████████████████████████████████   45.2%
+Python       ███████████████████████████████          21.7%
+JavaScript   █████████████████████████                18.1%
+C++          ██████████████                           9.1%
+Shell        ████████                                 6.0%
 ```
-<!--END_SECTION:waka-->
+
+*Stats updated automatically via GitHub Actions*
+
+</div>
 
 ---
 
@@ -245,10 +251,20 @@ Shell        1 hr 10 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 📈 Real-Time Stats
+## 📈 Real-Time Development Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chamath-Adithya&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chamath-Adithya&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chamath-Adithya&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chamath-Adithya&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chamath-Adithya&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chamath-Adithya&theme=radical&utcOffset=5.5" />
 </div>
 
 ---
@@ -256,13 +272,26 @@ Shell        1 hr 10 mins    █░░░░░░░░░░░░░░░░
 ## 🎨 Fun Section
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=default&font=Redressed" />
+  
+### 🎯 **Random Dev Quote**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
-### 🎵 **Currently Listening To**
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=chamath.adithya&cover_image=true&theme=radical&show_offline=true&background_color=121212" />
-</div>
+### 🎮 **When I'm Not Coding**
+- 🏏 **Cricket Enthusiast** - Love watching and playing cricket
+- 🎵 **Music Lover** - Electronic, Lo-fi, and Classical
+- 📚 **Tech Blogger** - Sharing knowledge through articles
+- 🌱 **Gardening** - Growing my own vegetables (yes, really!)
+- 🎯 **Chess Player** - Strategic thinking beyond code
+- 🍕 **Pizza Connoisseur** - Fuel for late-night coding sessions
+
+### 🎪 **Fun Facts**
+- 🚀 I once debugged a production issue while on a beach vacation
+- 🧠 Can explain complex IoT concepts using pizza analogies
+- 📱 My first "Hello World" was on a Nokia 3310 (yes, that was possible!)
+- 🎨 I design my own PCBs and 3D print custom enclosures
+- 🌙 Most productive coding hours: 11 PM - 3 AM ☕
 
 ---
 
@@ -276,10 +305,4 @@ Shell        1 hr 10 mins    █░░░░░░░░░░░░░░░░
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chamath-Adithya/Chamath-Adithya/output/github-contribution-grid-snake.svg" />
 </div>
