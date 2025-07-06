@@ -11,12 +11,13 @@
 <details>
 <summary>Click to expand 👇</summary>
 
-👨‍💻 **Founder & CTO of SOLVEO** — merging software development with IoT, automation, and real-world problem solving.
+👨‍💻 **Founder & CTO of SOLVEO** — merging software, IoT, cybersecurity, and Linux-based automation into real-world solutions.
 
 - 🌍 Based in Sri Lanka
-- 🛠️ Full-Stack Dev: React · Next.js · Electron · DuckDB · Tailwind CSS
-- 🔌 IoT & Embedded: Arduino · ESP32 · MQTT · Sensor Networks
-- ☁️ Cloud & DevOps: Firebase · GitHub Actions · Docker
+- 🔧 Full-Stack Dev: React · Next.js · Electron · DuckDB · Tailwind CSS
+- 🖥️ Linux & Cybersecurity: Kali Linux · Networking · Penetration Testing · Secure DevOps
+- 🔌 IoT & Embedded: Arduino · ESP32 · MQTT · Sensor Networks · TinyML
+- ☁️ Cloud & DevOps: Firebase · GitHub Actions · Docker · CI/CD Pipelines
 
 </details>
 
@@ -25,7 +26,7 @@
 ## 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,nodejs,arduino,esp32,git,githubactions,tailwind,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,nodejs,arduino,esp32,linux,kali,git,githubactions,tailwind,firebase,mqtt,docker,python,c,cpp,ts" />
 </p>
 
 ---
@@ -76,11 +77,12 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Certifications
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+- 🎖️ AWS Certified Solutions Architect – 2024
+- 🛡️ Certified Ethical Hacker (CEH) – 2023
+- 🥇 Google Cloud Professional Developer – 2023
+- 🔭 Open-Source Contributor & Mentor
 
 ---
 
