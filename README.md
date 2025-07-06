@@ -38,44 +38,65 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
+### 🛠️ Tech Stack & Tools
 ### **Languages & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,rust,go,html,css,react,nextjs,nodejs,electron,express,fastapi,django" />
-</p>
+
+\<p align="center"\>
+\<img src="[https://skillicons.dev/icons?i=ts,js,python,c,cpp,rust,go,html,css,react,nextjs,nodejs,electron,express,fastapi,django,svelte,vue,flask,java,kotlin,php,laravel,ruby,rails](https://www.google.com/url?sa=E&source=gmail&q=https://skillicons.dev/icons?i=ts,js,python,c,cpp,rust,go,html,css,react,nextjs,nodejs,electron,express,fastapi,django,svelte,vue,flask,java,kotlin,php,laravel,ruby,rails)" /\>
+\</p\>
+
+-----
 
 ### **IoT & Embedded Systems**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-  <img src="https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=red" />
-  <img src="https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-</p>
+
+\<p align="center"\>
+\<img src="[https://skillicons.dev/icons?i=arduino,raspberrypi](https://skillicons.dev/icons?i=arduino,raspberrypi)" /\>
+\<img src="[https://img.shields.io/badge/-ESP32-000000?style=flat-square\&logo=espressif\&logoColor=red](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=red)" /\>
+\<img src="[https://img.shields.io/badge/-PlatformIO-FF7F00?style=flat-square\&logo=platformio\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-PlatformIO-FF7F00%3Fstyle%3Dflat-square%26logo%3Dplatformio%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/-MQTT-660066?style=flat-square\&logo=mqtt\&logoColor=white](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)" /\>
+\<img src="[https://img.shields.io/badge/-Zigbee-E0B453?style=flat-square\&logo=zigbee\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/-Zigbee-E0B453%3Fstyle%3Dflat-square%26logo%3Dzigbee%26logoColor%3Dblack)" /\>
+\<img src="[https://img.shields.io/badge/-TinyML-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white](https://img.shields.io/badge/-TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)" /\>
+\</p\>
+
+-----
 
 ### **Cybersecurity & Networking**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
-</p>
+
+\<p align="center"\>
+\<img src="[https://skillicons.dev/icons?i=kali,linux](https://skillicons.dev/icons?i=kali,linux)" /\>
+\<img src="[https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)" /\>
+\<img src="[https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square\&logo=metasploit\&logoColor=white](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)" /\>
+\<img src="[https://img.shields.io/badge/-Nmap-4682B4?style=flat-square\&logo=nmap\&logoColor=white](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)" /\>
+\<img src="[https://img.shields.io/badge/-Burp%20Suite-FF6600?style=flat-square\&logo=burpsuite\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Burp%2520Suite-FF6600%3Fstyle%3Dflat-square%26logo%3Dburpsuite%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/-Hashcat-8B0000?style=flat-square\&logo=hashcat\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Hashcat-8B0000%3Fstyle%3Dflat-square%26logo%3Dhashcat%26logoColor%3Dwhite)" /\>
+\</p\>
+
+-----
 
 ### **Cloud & DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes,nginx,githubactions,jenkins" />
-</p>
+
+\<p align="center"\>
+\<img src="[https://skillicons.dev/icons?i=aws,gcp,azure,firebase,docker,kubernetes,nginx,heroku,vercel,netlify,terraform,ansible,githubactions,jenkins,prometheus,grafana](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,gcp,azure,firebase,docker,kubernetes,nginx,heroku,vercel,netlify,terraform,ansible,githubactions,jenkins,prometheus,grafana)" /\>
+\</p\>
+
+-----
 
 ### **Database & Storage**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite" />
-  <img src="https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
-</p>
+
+\<p align="center"\>
+\<img src="[https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostgresql,mysql,mongodb,redis,sqlite)" /\>
+\<img src="[https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square\&logo=microsoft-sql-server\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Microsoft%2520SQL%2520Server-CC2927%3Fstyle%3Dflat-square%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/-Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Oracle-F80000%3Fstyle%3Dflat-square%26logo%3Doracle%26logoColor%3Dwhite)" /\>
+\<img src="[https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square\&logo=duckdb\&logoColor=black](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)" /\>
+\</p\>
+
+-----
 
 ### **Development Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,figma,tailwind" />
-</p>
+
+\<p align="center"\>
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,postman,figma,tailwind,webpack,babel,jira](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,vim,neovim,postman,figma,tailwind,webpack,babel,jira)" /\>
+\</p\>
 
 ---
 
