@@ -279,12 +279,10 @@ Shell        ████████                                 6.0%
 </div>
 
 ### 🎮 **When I'm Not Coding**
-- 🏏 **Cricket Enthusiast** - Love watching and playing cricket
 - 🎵 **Music Lover** - Electronic, Lo-fi, and Classical
 - 📚 **Tech Blogger** - Sharing knowledge through articles
 - 🌱 **Gardening** - Growing my own vegetables (yes, really!)
 - 🎯 **Chess Player** - Strategic thinking beyond code
-- 🍕 **Pizza Connoisseur** - Fuel for late-night coding sessions
 
 ### 🎪 **Fun Facts**
 - 🚀 I once debugged a production issue while on a beach vacation
