@@ -42,39 +42,94 @@
 
 ### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,rust,go,html,css,react,nextjs,nodejs,electron,express,fastapi,django" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,rust,go,html,css,react,nextjs,nodejs,electron,express,fastapi,django,spring,flask,vue,angular,svelte" />
 </p>
 
 ### **IoT & Embedded Systems**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   <img src="https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=red" />
+  <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/-TinyML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FreeRTOS-007ACC?style=flat-square&logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Modbus-2D2D2D?style=flat-square&logoColor=white" />
 </p>
 
 ### **Cybersecurity & Networking**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
 </p>
 
 ### **Cloud & DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes,nginx,githubactions,jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,docker,kubernetes,nginx,githubactions,jenkins,terraform,ansible" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 </p>
 
 ### **Database & Storage**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,realm" />
   <img src="https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
-### **Development Tools**
+### **AI / ML / Data Science**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+</p>
+
+### **Cross-Platform & Mobile Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,reactnative,tauri,androidstudio" />
+  <img src="https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+</p>
+
+### **Testing & QA**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,pytest" />
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+</p>
+
+### **Development Tools & Design**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,postman,figma,tailwind,notion,visualstudio" />
+  <img src="https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
+
+### **Analytics & Monitoring**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  <img src="https://img.shields.io/badge/-Elastic%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+</p>
+
+### **Hardware Tools & PCB Design**
+<p align="center">
+  <img src="https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/-EasyEDA-8B0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Proteus-E74C3C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Fritzing-EFA00B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JTAG-2F3E50?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ST--Link-03234B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Logic%20Analyzers-1F1F1F?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oscilloscopes-2D2D2D?style=flat-square&logoColor=white" />
 </p>
 
 ---
