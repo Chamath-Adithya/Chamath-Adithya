@@ -126,10 +126,15 @@
   <img src="https://img.shields.io/badge/-EasyEDA-8B0000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-Proteus-E74C3C?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-Fritzing-EFA00B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Onshape-0099CC?style=flat-square&logo=onshape&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FreeCAD-009999?style=flat-square&logo=freecad&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/-JTAG-2F3E50?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-ST--Link-03234B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-Logic%20Analyzers-1F1F1F?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-Oscilloscopes-2D2D2D?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Multimeters-333333?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-3D%20Printing-FF6B35?style=flat-square&logoColor=white" />
 </p>
 
 ---
