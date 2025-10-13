@@ -17,22 +17,22 @@
 <details>
 <summary>Click to expand 👇</summary>
 
-👨‍💻 **Founder & CTO of SOLVEO** — merging software, IoT, cybersecurity, and Linux-based automation into real-world solutions.
+👨‍💻 **Founder & CTO of SOLVEO** — merging software, IoT, cybersecurity, and Linux-based automation into real-world solutions that drive innovation and impact.
 
 - 🌍 Based in **Sri Lanka** 🇱🇰
-- 🔭 Currently building **next-generation IoT security frameworks**
-- 🌱 Learning **TinyML, Edge AI, and Quantum Computing fundamentals**
-- 🎯 2025 Goals: **Launch 3 open-source projects, contribute to 50+ repos**
-- 💡 Always excited about **innovative tech solutions that make a difference**
-- 🎮 Fun fact: **I can solve complex network issues while debugging embedded systems simultaneously!**
+- 🔭 Currently architecting **next-generation IoT security frameworks** for enterprise deployments
+- 🌱 Passionate about **TinyML, Edge AI, and cutting-edge security paradigms**
+- 💡 Dedicated to **developing scalable solutions** that solve real-world challenges
+- 🎯 Focused on **continuous learning and pushing technological boundaries**
+- 🎮 Fun fact: **I thrive on solving complex system architecture problems across multiple domains simultaneously!**
 
 ### 🔧 **Technical Expertise**
 - **Full-Stack Development**: React, Next.js, Electron, Node.js, TypeScript
 - **IoT & Embedded Systems**: Arduino, ESP32, MQTT, Sensor Networks, TinyML
-- **Cybersecurity**: Penetration Testing, Network Security, Secure DevOps
-- **Linux & Automation**: System Administration, Shell Scripting, Process Automation
-- **Cloud & DevOps**: Firebase, AWS, Docker, CI/CD, GitHub Actions
-- **Database Technologies**: DuckDB, PostgreSQL, MongoDB, Redis
+- **Cybersecurity**: Penetration Testing, Network Security, Secure DevOps, Threat Analysis
+- **Linux & Automation**: System Administration, Shell Scripting, Process Automation, Infrastructure as Code
+- **Cloud & DevOps**: Firebase, AWS, Docker, CI/CD, GitHub Actions, Kubernetes
+- **Database Technologies**: DuckDB, PostgreSQL, MongoDB, Redis, Data Optimization
 
 </details>
 
@@ -96,55 +96,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-### 🌟 [SOLVEO IoT Security Platform](https://github.com/Chamath-Adithya/solveo-iot-security)
-**Enterprise-grade IoT Security Framework**
-- **Tech Stack**: React, Node.js, ESP32, MQTT, Docker, AWS
-- **Features**: Real-time threat detection, device authentication, encrypted communications
-- **Impact**: Secured 1000+ IoT devices across 50+ deployments
-- 🔗 **Live Demo**: [solveo-security.com](https://solveo-security.com)
-
-### 🔥 [Linux Automation Toolkit](https://github.com/Chamath-Adithya/linux-automation-toolkit)
-**Comprehensive System Administration Automation**
-- **Tech Stack**: Python, Bash, Ansible, Docker
-- **Features**: Server monitoring, automated backups, security hardening
-- **Impact**: Reduced system maintenance time by 80%
-- ⭐ **500+ Stars** | 🍴 **120+ Forks**
-
-### 📱 [Smart Home Controller](https://github.com/Chamath-Adithya/smart-home-controller)
-**Cross-Platform Smart Home Management**
-- **Tech Stack**: React Native, Firebase, ESP32, MQTT
-- **Features**: Voice control, energy monitoring, security integration
-- **Impact**: Deployed in 200+ homes across Sri Lanka
-- 📱 **Available on Play Store**
-
-### 🛡️ [CyberSec Learning Platform](https://github.com/Chamath-Adithya/cybersec-learning)
-**Interactive Cybersecurity Education**
-- **Tech Stack**: Next.js, TypeScript, Docker, Kali Linux
-- **Features**: Virtual labs, hands-on exercises, progress tracking
-- **Impact**: Trained 5000+ students in cybersecurity
-- 🏆 **Winner - Best Educational Tool 2024**
-
----
-
-## 🏆 Achievements & Certifications
-
-### **Professional Certifications**
-- 🎖️ **AWS Certified Solutions Architect** – Associate (2024)
-- 🛡️ **Certified Ethical Hacker (CEH)** – EC-Council (2023)
-- ☁️ **Google Cloud Professional Developer** – Google (2023)
-- 🔒 **CompTIA Security+** – CompTIA (2023)
-- 🐧 **Red Hat Certified System Administrator** – Red Hat (2022)
-
-### **Awards & Recognition**
-- 🏅 **IoT Innovation Award** – Sri Lanka Tech Awards (2024)
-- 🥇 **Best Cybersecurity Startup** – Colombo Tech Summit (2023)
-- 🌟 **Top 10 Under 30 Innovators** – Tech Sri Lanka (2023)
-- 🎯 **Outstanding Contributor** – Open Source Sri Lanka (2022)
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -159,95 +110,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Chamath-Adithya&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </div>
 
-**Notable Contributions:**
-- 🔧 **[Arduino IDE](https://github.com/arduino/Arduino)** - Enhanced ESP32 board support
-- 🛡️ **[Kali Linux Tools](https://gitlab.com/kalilinux)** - Security automation scripts
-- 🌐 **[React](https://github.com/facebook/react)** - IoT component optimizations
-- 📡 **[MQTT.js](https://github.com/mqttjs/MQTT.js)** - Performance improvements
-- 🔒 **[OpenSSL](https://github.com/openssl/openssl)** - Security patches
-
----
-
-## 📝 Recent Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [🚀 Building Scalable IoT Security: Lessons from 1000+ Device Deployments](https://medium.com/@chamath.adithya/iot-security-scale)
-- [🔐 Advanced Penetration Testing Techniques for Modern Networks](https://dev.to/chamath-adithya/advanced-pentest-techniques)
-- [🐧 Linux Automation: From Beginner to Expert in 30 Days](https://hashnode.com/@chamath-adithya/linux-automation-guide)
-- [⚡ Optimizing React Apps for IoT Dashboard Performance](https://blog.solveo.lk/react-iot-optimization)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎙️ Speaking & Community
-
-### **Recent Talks**
-- 🎤 **"Future of IoT Security"** - DevFest Colombo 2024
-- 📢 **"Cybersecurity in the Age of AI"** - TechTalk Sri Lanka 2024
-- 🌐 **"Open Source Hardware Revolution"** - MakerFest 2023
-
-### **Community Involvement**
-- 👥 **Founder** - Sri Lanka IoT Developers Community (2000+ members)
-- 🎓 **Mentor** - Google Developer Student Clubs
-- 📚 **Instructor** - Cybersecurity Bootcamps (500+ students trained)
-
----
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-  
-**My Top Programming Languages This Week:**
-
-```text
-TypeScript   ████████████████████████████████████████   45.2%
-Python       ███████████████████████████████          21.7%
-JavaScript   █████████████████████████                18.1%
-C++          ██████████████                           9.1%
-Shell        ████████                                 6.0%
-```
-
-*Stats updated automatically via GitHub Actions*
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamathadithya)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chamath_adithya)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chamath.adithya)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chamath-adithya)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamath.adithya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chamath-adithya.dev)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/chamath-adithya)
-
-</div>
-
-### 💼 **Open for Collaboration**
-- 🚀 **Startup Partnerships** - IoT & Cybersecurity ventures
-- 🎯 **Consulting Projects** - Enterprise security solutions
-- 📚 **Speaking Engagements** - Tech conferences & workshops  
-- 🤝 **Mentorship** - Helping aspiring developers & entrepreneurs
-
----
-
-## 🎯 2025 Goals & Vision
-
-<div align="center">
-  
-| Goal | Progress | Status |
-|------|----------|--------|
-| 🚀 Launch 3 Major Open Source Projects | 1/3 | 🟢 In Progress |
-| 🌟 Reach 10K GitHub Stars | 3.2K/10K | 🟡 On Track |
-| 🎓 Train 1000+ Cybersecurity Students | 650/1000 | 🟢 Ahead |
-| 🏆 Speak at 10 International Conferences | 3/10 | 🟡 On Track |
-| 💡 File 2 Technology Patents | 0/2 | 🔴 Planning |
-
-</div>
+I actively contribute to impactful open-source projects, including enhancements to Arduino IDE for ESP32 board support, security automation scripts for Kali Linux tools, IoT component optimizations for React, performance improvements for MQTT.js, and security patches for OpenSSL. My contributions focus on improving developer experience and strengthening security across the ecosystem.
 
 ---
 
@@ -269,6 +132,18 @@ Shell        ████████                                 6.0%
 
 ---
 
+## 💼 Professional Overview
+
+With a strong foundation in full-stack development, IoT systems, and cybersecurity, I've built and deployed enterprise-grade solutions that serve thousands of users and devices. My work spans from architecting scalable cloud infrastructure to developing embedded systems that operate at the edge. I'm deeply invested in creating secure, efficient, and user-centric technology solutions.
+
+### Key Areas of Impact
+- **Enterprise IoT Security**: Designing frameworks that protect connected devices at scale
+- **System Architecture**: Building resilient, distributed systems for production environments
+- **Developer Tools**: Creating utilities that improve team productivity and code quality
+- **Security Research**: Exploring emerging threats and developing proactive defense mechanisms
+
+---
+
 ## 🎨 Fun Section
 
 <div align="center">
@@ -279,17 +154,40 @@ Shell        ████████                                 6.0%
 </div>
 
 ### 🎮 **When I'm Not Coding**
-- 🎵 **Music Lover** - Electronic, Lo-fi, and Classical
-- 📚 **Tech Blogger** - Sharing knowledge through articles
-- 🌱 **Gardening** - Growing my own vegetables (yes, really!)
-- 🎯 **Chess Player** - Strategic thinking beyond code
+- 🎵 **Music Lover** - Electronic, Lo-fi, and Classical genres
+- 📚 **Tech Enthusiast** - Staying current with emerging technologies
+- 🌱 **Gardening** - Growing vegetables and plants as a hobby
+- 🎯 **Chess Player** - Sharpening strategic thinking skills
+- ☕ **Coffee Devotee** - Fueling late-night coding sessions
 
 ### 🎪 **Fun Facts**
-- 🚀 I once debugged a production issue while on a beach vacation
-- 🧠 Can explain complex IoT concepts using pizza analogies
-- 📱 My first "Hello World" was on a Nokia 3310 (yes, that was possible!)
-- 🎨 I design my own PCBs and 3D print custom enclosures
-- 🌙 Most productive coding hours: 11 PM - 3 AM ☕
+- 🚀 Successfully debugged production issues in unconventional environments
+- 🧠 Enjoys explaining complex technical concepts in approachable ways
+- 📱 Built projects on various platforms from microcontrollers to cloud
+- 🎨 Designs custom PCBs and 3D prints hardware enclosures
+- 🌙 Peak productivity window: 11 PM - 3 AM ☕
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamathadithya)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chamath_adithya)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chamath.adithya)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chamath-adithya)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamath.adithya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chamath-adithya.dev)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/chamath-adithya)
+
+</div>
+
+### 💼 **Open for Collaboration**
+- 🚀 **Startup Partnerships** - Collaborative ventures in IoT and cybersecurity
+- 🎯 **Consulting Projects** - Enterprise-level security solutions and architecture
+- 📚 **Knowledge Sharing** - Technical discussions and peer learning
+- 🤝 **Professional Growth** - Building relationships with like-minded developers and innovators
 
 ---
 
