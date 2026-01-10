@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500" />
 </div>
 
 <details>
@@ -152,10 +152,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Chamath-Adithya&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
@@ -172,7 +168,7 @@
 ## 🤝 Open Source Contributions
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Chamath-Adithya&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamath-Adithya&theme=radical" />
 </div>
 
 I actively contribute to impactful open-source projects, including enhancements to Arduino IDE for ESP32 board support, security automation scripts for Kali Linux tools, IoT component optimizations for React, performance improvements for MQTT.js, and security patches for OpenSSL. My contributions focus on improving developer experience and strengthening security across the ecosystem.
