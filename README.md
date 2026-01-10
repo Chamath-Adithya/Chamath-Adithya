@@ -167,10 +167,6 @@
 
 ## 🤝 Open Source Contributions
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamath-Adithya&theme=radical" />
-</div>
-
 I actively contribute to impactful open-source projects, including enhancements to Arduino IDE for ESP32 board support, security automation scripts for Kali Linux tools, IoT component optimizations for React, performance improvements for MQTT.js, and security patches for OpenSSL. My contributions focus on improving developer experience and strengthening security across the ecosystem.
 
 ---
