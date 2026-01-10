@@ -1,4 +1,4 @@
-# Hi there, I'm Chamath Adithya 👋
+# Hi there, I'm Chamath Adithya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Founder+%26+CTO+of+SOLVEO;Full-Stack+Developer;IoT+%26+Cybersecurity+Expert;Linux+Automation+Specialist;Open-Source+Contributor" alt="Typing SVG" />
@@ -13,6 +13,10 @@
 ---
 
 ## 🚀 About Me
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" />
+</div>
 
 <details>
 <summary>Click to expand 👇</summary>
@@ -44,6 +48,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,rust,go,html,css,react,nextjs,nodejs,electron,express,fastapi,django,spring,flask,vue,angular,svelte" />
 </p>
+<br/>
 
 ### **IoT & Embedded Systems**
 <p align="center">
@@ -196,11 +201,13 @@ I actively contribute to impactful open-source projects, including enhancements 
 
 With a strong foundation in full-stack development, IoT systems, and cybersecurity, I've built and deployed enterprise-grade solutions that serve thousands of users and devices. My work spans from architecting scalable cloud infrastructure to developing embedded systems that operate at the edge. I'm deeply invested in creating secure, efficient, and user-centric technology solutions.
 
-### Key Areas of Impact
-- **Enterprise IoT Security**: Designing frameworks that protect connected devices at scale
-- **System Architecture**: Building resilient, distributed systems for production environments
-- **Developer Tools**: Creating utilities that improve team productivity and code quality
-- **Security Research**: Exploring emerging threats and developing proactive defense mechanisms
+### 💼 Key Areas of Impact
+| Area | Description |
+|:---:|---|
+| 🛡️ **Enterprise IoT Security** | Designing frameworks that protect connected devices at scale |
+| 🏗️ **System Architecture** | Building resilient, distributed systems for production environments |
+| 🛠️ **Developer Tools** | Creating utilities that improve team productivity and code quality |
+| 🔍 **Security Research** | Exploring emerging threats and developing proactive defense mechanisms |
 
 ---
 
@@ -214,10 +221,15 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 </div>
 
 ### 🎮 **When I'm Not Coding**
-- 🎵 **Music Lover** - Electronic, Lo-fi, and Classical genres
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="200" alt="Coffee & Code" />
+</div>
+
+- 🎧 **Music Lover** - Electronic, Lo-fi, and Classical genres
 - 📚 **Tech Enthusiast** - Staying current with emerging technologies
 - 🌱 **Gardening** - Growing vegetables and plants as a hobby
-- 🎯 **Chess Player** - Sharpening strategic thinking skills
+- ♟️ **Chess Player** - Sharpening strategic thinking skills
 - ☕ **Coffee Devotee** - Fueling late-night coding sessions
 
 ### 🎪 **Fun Facts**
