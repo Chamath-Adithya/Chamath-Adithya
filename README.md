@@ -152,11 +152,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamath-Adithya&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Chamath-Adithya&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
