@@ -258,7 +258,7 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<img src="https://img.shields.io/badge/Built%20With-❤️%20Love-red?style=for-the-badge" alt="Built with Love" />
+<img src="https://img.shields.io/badge/Powered%20By-☕%20Coffee-6F4E37?style=for-the-badge" alt="Powered by Coffee" />
 
 </div>
