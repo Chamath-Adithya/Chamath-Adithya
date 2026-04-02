@@ -1,7 +1,7 @@
 # Hi there, I'm Chamath Adithya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Founder+%26+CTO+of+SOLVEO;Full-Stack+Developer;IoT+%26+Cybersecurity+Expert;Linux+Automation+Specialist;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Crafting+the+Unseen+Architecture;Where+Code+Meets+Hardware+Meets+Security;Building+Systems+That+Think+at+the+Edge;Some+Call+It+Engineering.+I+Call+It+Art.;%F0%9F%87%B1%F0%9F%87%B0+Sri+Lanka" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,13 +15,17 @@
 ## 🚀 About Me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500" />
 </div>
 
 <details>
 <summary>Click to expand 👇</summary>
 
-👨‍💻 **Founder & CTO of SOLVEO** — merging software, IoT, cybersecurity, and Linux-based automation into real-world solutions that drive innovation and impact.
+> 🔮 *The one who architects systems where software whispers to hardware,*
+> *where security isn't an afterthought — it's the foundation.*
+> *Somewhere between the edge and the cloud, I build things that matter.*
+>
+> **"If you have to ask what I do, you're not ready for the answer."**
 
 - 🌍 Based in **Sri Lanka** 🇱🇰
 - 🔭 Currently architecting **next-generation IoT security frameworks** for enterprise deployments
@@ -152,7 +156,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -237,13 +241,10 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamathadithya)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chamath_adithya)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chamath.adithya)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chamath-adithya)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamath.adithya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chamath-adithya.dev)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/chamath-adithya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamath-adithya-senanayaka-90264936b)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achamath1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://chamath-adithya.github.io)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1353-3641)
 
 </div>
 
