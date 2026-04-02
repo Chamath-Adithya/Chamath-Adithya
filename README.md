@@ -1,3 +1,5 @@
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFtOHo4b3hlaG81dWM2cTNleWJlNzRubHczNG5odjMxMG1wN2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="160" alt="Tech GIF" />
+
 # Hi there, I'm Chamath Adithya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
