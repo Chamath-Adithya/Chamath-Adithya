@@ -167,27 +167,8 @@
 
 ---
 
-## 🪪 User Authentication Module
 
-<table align="center" width="80%">
-  <tr>
-    <th colspan="2" align="center"><b>AUTHORIZATION REQUIRED : MAINFRAME ACCESS</b></th>
-  </tr>
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://github.com/Chamath-Adithya.png" width="120" />
-    </td>
-    <td width="70%">
-      <img src="https://img.shields.io/badge/AUTHENTICATION-VERIFIED-00FF00?style=for-the-badge&logo=springsecurity&logoColor=white" /><br /><br />
-      ▹ <b>SUBJECT_ID:</b> <code>CHAM-894-X // Alias: Chamath</code><br>
-      ▹ <b>CLEARANCE:</b> <code>OMNIPRESENT [Edge / SecOps]</code><br>
-      ▹ <b>CLASS:</b> <code>Architect of the Unseen</code><br>
-      ▹ <b>DIRECTIVE:</b> <a href="https://chamath-adithya.github.io"><b>[ENCRYPTED DATALINK] » Initialize Secure Connection to Reveal Archives 🗝️</b></a>
-    </td>
-  </tr>
-</table>
 
----
 
 ## 📈 Contribution Activity
 
@@ -293,5 +274,34 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 
 <img src="https://img.shields.io/badge/Built%20With-❤️%20Love-red?style=for-the-badge" alt="Built with Love" />
 <img src="https://img.shields.io/badge/Powered%20By-☕%20Coffee-6F4E37?style=for-the-badge" alt="Powered by Coffee" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗝️ [ROOT_ACCESS] // TERMINAL_OUTPUT_03:07_AM
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/Chamath-Adithya.png" width="150" style="border-radius: 50%" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SYSTEM-ON_READY-D1FF00?style=for-the-badge&logo=codetriage&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/SECURITY-ACTIVE-00F7FF?style=for-the-badge&logo=fortinet&logoColor=black" /><br/><br/>
+      <b>[SUBJECT]:</b> <code>CHAM-894-ALPHA // Ghost of the Edge</code><br/>
+      <b>[CLEARANCE]:</b> <code>UNRESTRICTED_ADMIN</code><br/>
+      <b>[OBJECTIVE]:</b> <code>Architecting Invisible Realities</code><br/>
+      <b>[LOG]:</b> <i>“Code speaks where the hardware whispers...”</i><br/><br/>
+      <a href="https://chamath-adithya.github.io">
+        <img src="https://img.shields.io/badge/»_INITIATE_DECRYPTION-DECODE_HIDDEN_ARCHIVE-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+> *“Only those who wander the shadows of the code find the archives of the truth.”*
 
 </div>
