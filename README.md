@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Crafting+the+Unseen+Architecture+%F0%9F%94%AE;Where+Code+Meets+Hardware+Meets+Security+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+That+Think+at+the+Edge+%E2%9A%A1;Some+Call+It+Engineering.+I+Call+It+Art.+%F0%9F%8E%AD;%F0%9F%87%B1%F0%9F%87%B0+Based+in+Sri+Lanka" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chamath-Adithya&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Chamath-Adithya?style=flat-square&color=green" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Chamath-Adithya?style=flat-square&color=yellow" alt="Stars" />
-</div>
+
 
 ---
 
@@ -156,6 +152,32 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chamath-Adithya/Chamath-Adithya/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> 💡 *Set up the [snk](https://github.com/Platane/snk) GitHub Action to auto-generate this animation!*
+
+---
+
+## 📅 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00F7FF/Chamath-Adithya" alt="GitHub Contribution Chart" />
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -214,7 +236,7 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 ### 🎮 **When I'm Not Coding**
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="200" alt="Coffee & Code" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZwaWtlbDgzZjRjeHBlZjJrMngzbHlrM2d3NTBoMHU0bGFnbnlmeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T5QzcZVei6rASJm9T1/giphy.gif" width="200" alt="Coffee & Code" />
 </div>
 
 - 🎧 **Music Lover** - Electronic, Lo-fi, and Classical genres
