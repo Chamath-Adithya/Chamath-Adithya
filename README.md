@@ -179,10 +179,10 @@
     </td>
     <td width="70%">
       <img src="https://img.shields.io/badge/AUTHENTICATION-VERIFIED-00FF00?style=for-the-badge&logo=springsecurity&logoColor=white" /><br /><br />
-      ▹ <b>IDENTIFIER:</b> <code>Chamath Adithya / CHAM-894-X</code><br>
-      ▹ <b>CLEARANCE:</b> <code>LEVEL 9 [IoT / SYSADMIN]</code><br>
-      ▹ <b>CLASS:</b> <code>Full-Stack Security Architect</code><br>
-      ▹ <b>DIRECTIVE:</b> <i>Engineering Scalable Edge Solutions</i>
+      ▹ <b>SUBJECT_ID:</b> <code>CHAM-894-X // Alias: Chamath</code><br>
+      ▹ <b>CLEARANCE:</b> <code>OMNIPRESENT [Edge / SecOps]</code><br>
+      ▹ <b>CLASS:</b> <code>Architect of the Unseen</code><br>
+      ▹ <b>DIRECTIVE:</b> <a href="https://chamath-adithya.github.io"><b>[ENCRYPTED DATALINK] » Initialize Secure Connection to Reveal Archives 🗝️</b></a>
     </td>
   </tr>
 </table>
