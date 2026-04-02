@@ -167,11 +167,25 @@
 
 ---
 
-## 📅 3D Contribution Calendar
+## 🪪 User Authentication Module
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/Chamath-Adithya" alt="GitHub Contribution Chart" />
-</div>
+<table align="center" width="80%">
+  <tr>
+    <th colspan="2" align="center"><b>AUTHORIZATION REQUIRED : MAINFRAME ACCESS</b></th>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://github.com/Chamath-Adithya.png" width="120" />
+    </td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/AUTHENTICATION-VERIFIED-00FF00?style=for-the-badge&logo=springsecurity&logoColor=white" /><br /><br />
+      ▹ <b>IDENTIFIER:</b> <code>Chamath Adithya / CHAM-894-X</code><br>
+      ▹ <b>CLEARANCE:</b> <code>LEVEL 9 [IoT / SYSADMIN]</code><br>
+      ▹ <b>CLASS:</b> <code>Full-Stack Security Architect</code><br>
+      ▹ <b>DIRECTIVE:</b> <i>Engineering Scalable Edge Solutions</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
