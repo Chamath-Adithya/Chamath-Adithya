@@ -1,27 +1,31 @@
-# Hi there, I'm Chamath Adithya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFtOHo4b3hlaG81dWM2cTNleWJlNzRubHczNG5odjMxMG1wN2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="130" alt="Tech Glitch Eye" />
+
+<h3><b>Hi there, I'm Chamath Adithya</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+
+<br clear="both" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Founder+%26+CTO+of+SOLVEO;Full-Stack+Developer;IoT+%26+Cybersecurity+Expert;Linux+Automation+Specialist;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Crafting+the+Unseen+Architecture+%F0%9F%94%AE;Where+Code+Meets+Hardware+Meets+Security+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+That+Think+at+the+Edge+%E2%9A%A1;Some+Call+It+Engineering.+I+Call+It+Art.+%F0%9F%8E%AD;%F0%9F%87%B1%F0%9F%87%B0+Based+in+Sri+Lanka" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chamath-Adithya&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Chamath-Adithya?style=flat-square&color=green" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Chamath-Adithya?style=flat-square&color=yellow" alt="Stars" />
-</div>
+
 
 ---
 
 ## 🚀 About Me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" />
 </div>
 
 <details>
 <summary>Click to expand 👇</summary>
 
-👨‍💻 **Founder & CTO of SOLVEO** — merging software, IoT, cybersecurity, and Linux-based automation into real-world solutions that drive innovation and impact.
+> 🔮 *The one who architects systems where software whispers to hardware,*
+> *where security isn't an afterthought — it's the foundation.*
+> *Somewhere between the edge and the cloud, I build things that matter.*
+>
+> **"If you have to ask what I do, you're not ready for the answer."**
 
 - 🌍 Based in **Sri Lanka** 🇱🇰
 - 🔭 Currently architecting **next-generation IoT security frameworks** for enterprise deployments
@@ -147,12 +151,26 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamath-Adithya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamath-Adithya&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+  <img src="https://streak-stats.demolab.com/?user=Chamath-Adithya&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
+
+## 🌐 System Architecture Hub
+
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="400" alt="Cybersecurity Matrix" />
+  <img src="https://media.giphy.com/media/VbO2BOSebwDIfmG1yM/giphy.gif" width="400" alt="UI Matrix" />
+</div>
+
+> **“The real danger is not that computers will begin to think like men, but that men will begin to think like computers.”**
+
+---
+
+## 📅 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00F7FF/Chamath-Adithya" alt="GitHub Contribution Chart" />
 </div>
 
 ---
@@ -215,7 +233,7 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 ### 🎮 **When I'm Not Coding**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="200" alt="Coffee & Code" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZwaWtlbDgzZjRjeHBlZjJrMngzbHlrM2d3NTBoMHU0bGFnbnlmeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T5QzcZVei6rASJm9T1/giphy.gif" width="200" alt="Coffee & Code" />
 </div>
 
 - 🎧 **Music Lover** - Electronic, Lo-fi, and Classical genres
@@ -237,13 +255,10 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamathadithya)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chamath_adithya)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chamath.adithya)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chamath-adithya)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamath.adithya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chamath-adithya.dev)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/chamath-adithya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamath-adithya-senanayaka-90264936b)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achamath1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://chamath-adithya.github.io)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1353-3641)
 
 </div>
 
@@ -262,7 +277,7 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<img src="https://img.shields.io/badge/Built%20With-❤️%20Love-red?style=for-the-badge" alt="Built with Love" />
+<img src="https://img.shields.io/badge/Powered%20By-☕%20Coffee-6F4E37?style=for-the-badge" alt="Powered by Coffee" />
 
 </div>
