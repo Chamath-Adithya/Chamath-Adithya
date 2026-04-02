@@ -1,0 +1,78 @@
+name: Update Guestbook
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update:
+    if: contains(github.event.issue.labels.*.name, 'guestbook')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Guestbook in README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const issue = context.payload.issue;
+            const username = issue.user.login;
+            const avatarUrl = issue.user.avatar_url;
+            
+            let readme = fs.readFileSync('README.md', 'utf-8');
+            
+            const startMarker = '<!-- GUESTBOOK_LIST:START -->';
+            const endMarker = '<!-- GUESTBOOK_LIST:END -->';
+            
+            const startIdx = readme.indexOf(startMarker);
+            const endIdx = readme.indexOf(endMarker);
+            
+            if (startIdx === -1 || endIdx === -1) {
+              core.setFailed('Guestbook markers not found in README.md');
+              return;
+            }
+            
+            const currentContent = readme.substring(startIdx + startMarker.length, endIdx).trim();
+            
+            // Limit to 50 unique latest signers to prevent bloat
+            const newEntry = `<a href="https://github.com/${username}"><img src="${avatarUrl}" width="40" height="40" title="${username}" alt="${username}" style="border-radius: 50%; margin: 5px;" /></a>`;
+            
+            // Check if user already signed
+            if (currentContent.includes(`github.com/${username}`)) {
+               console.log('User already in guestbook.');
+            } else {
+               const newContent = `\n${newEntry}${currentContent ? ' ' + currentContent : ''}\n`;
+               const updatedReadme = readme.substring(0, startIdx + startMarker.length) + newContent + readme.substring(endIdx);
+               fs.writeFileSync('README.md', updatedReadme);
+            }
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: updated guestbook with @${{ github.event.issue.user.login }}" || exit 0
+          git push
+
+      - name: Close Issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: "### Thank you for signing my guestbook, @${{ github.event.issue.user.login }}! 🚀\nYour avatar has been added to my profile."
+            });
+            github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed'
+            });

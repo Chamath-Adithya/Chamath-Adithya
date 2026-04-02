@@ -1,14 +1,22 @@
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFtOHo4b3hlaG81dWM2cTNleWJlNzRubHczNG5odjMxMG1wN2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="130" alt="Tech Glitch Eye" />
-
-<h3><b>Hi there, I'm Chamath Adithya</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-
-<br clear="both" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Crafting+the+Unseen+Architecture+%F0%9F%94%AE;Where+Code+Meets+Hardware+Meets+Security+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+That+Think+at+the+Edge+%E2%9A%A1;Some+Call+It+Engineering.+I+Call+It+Art.+%F0%9F%8E%AD;%F0%9F%87%B1%F0%9F%87%B0+Based+in+Sri+Lanka" alt="Typing SVG" />
+  <table width="900">
+    <tr background="gray">
+      <td style="background: #333; border-radius: 10px 10px 0 0; padding: 10px;">
+        <span style="color: #ff5f56; font-size: 20px;">●</span>
+        <span style="color: #ffbd2e; font-size: 20px;">●</span>
+        <span style="color: #27c93f; font-size: 20px;">●</span>
+        <code style="color: #aaa; margin-left: 20px;">chamath@arch-linux: ~ /profile</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background: #1e1e1e; border-radius: 0 0 10px 10px; border: 1px solid #333; padding: 40px 20px;">
+        <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFtOHo4b3hlaG81dWM2cTNleWJlNzRubHczNG5odjMxMG1wN2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="100" alt="Tech Glitch Eye" />
+        <h2 style="color: #fff; margin-top: 0;">Hi there, I'm Chamath Adithya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Crafting+the+Unseen+Architecture+%F0%9F%94%AE;Where+Code+Meets+Hardware+Meets+Security+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+That+Think+at+the+Edge+%E2%9A%A1;Some+Call+It+Engineering.+I+Call+It+Art.+%F0%9F%8E%AD;%F0%9F%87%B1%F0%9F%87%B0+Based+in+Sri+Lanka" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-
 
 ---
 
@@ -156,14 +164,32 @@
 
 ---
 
+<!-- [!] SECURITY_ADVISORY: You found the hidden logs. Entry approved for SUBJECT_CHAM-894-X. -->
 ## 🌐 System Architecture Hub
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/»_GATEKEEPER_STATUS-ACTIVE-00F7FF?style=for-the-badge&logo=spyder&logoColor=black">
+    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" />
+  </picture>
+  <br/><br/>
   <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="400" alt="Cybersecurity Matrix" />
   <img src="https://media.giphy.com/media/VbO2BOSebwDIfmG1yM/giphy.gif" width="400" alt="UI Matrix" />
 </div>
 
 > **“The real danger is not that computers will begin to think like men, but that men will begin to think like computers.”**
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chamath-Adithya/Chamath-Adithya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chamath-Adithya/Chamath-Adithya/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Chamath-Adithya/Chamath-Adithya/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
@@ -198,6 +224,20 @@ I actively contribute to impactful open-source projects, including enhancements 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chamath-Adithya&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chamath-Adithya&theme=radical&utcOffset=5.5" />
+</div>
+
+---
+
+## 📡 Edge Systems Live Monitor [Simulated]
+<div align="center">
+
+| Metric | Status | Level | Protocol |
+| :--- | :---: | :---: | :---: |
+| **System Heartbeat** | <img src="https://img.shields.io/badge/HEARTBEAT-ACTIVE-00FF00?style=flat-square" /> | `NORMAL` | `MQTT` |
+| **Edge Gateway (SL-01)** | <img src="https://img.shields.io/badge/VPN-CONNECTED-00F7FF?style=flat-square&logo=wireguard" /> | `SECURE` | `OPENVPN` |
+| **Sensor Mesh Latency** | <img src="https://img.shields.io/badge/DELAY-12ms-yellow?style=flat-square" /> | `OPTIMAL` | `LoRaWAN` |
+| **Resource Allocation** | <img src="https://img.shields.io/badge/CPU-24%25-green?style=flat-square" /> | `STABLE` | `ARMv8` |
+
 </div>
 
 ---
@@ -243,6 +283,27 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 - 📱 Built projects on various platforms from microcontrollers to cloud
 - 🎨 Designs custom PCBs and 3D prints hardware enclosures
 - 🌙 Peak productivity window: 11 PM - 3 AM ☕
+
+---
+
+## 👨‍💻 Community Guestbook
+<p align="center">
+  <img src="https://img.shields.io/badge/Guestbook-Active-00FF00?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Leave your mark below! Click the button to add your avatar to my profile.</b><br/><br/>
+  <a href="https://github.com/Chamath-Adithya/Chamath-Adithya/issues/new?template=guestbook.yml&title=Guestbook:++%5BYour+Message%5D">
+    <img src="https://img.shields.io/badge/»_SIGN_MY_GUESTBOOK-V.1.0-FF0055?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+<!-- GUESTBOOK_LIST:START -->
+<!-- GUESTBOOK_LIST:END -->
+
+</div>
 
 ---
 
