@@ -1,4 +1,4 @@
-# Hi there, I'm Chamath Adithya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFtOHo4b3hlaG81dWM2cTNleWJlNzRubHczNG5odjMxMG1wN2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="100" alt="Glitch Eye GIF" />
+# Hi there, I'm Chamath Adithya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFtOHo4b3hlaG81dWM2cTNleWJlNzRubHczNG5odjMxMG1wN2pyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QYkX9IMHthYn0Y3pcG/giphy.gif" width="130" alt="Glitch Eye GIF" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Crafting+the+Unseen+Architecture+%F0%9F%94%AE;Where+Code+Meets+Hardware+Meets+Security+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+That+Think+at+the+Edge+%E2%9A%A1;Some+Call+It+Engineering.+I+Call+It+Art.+%F0%9F%8E%AD;%F0%9F%87%B1%F0%9F%87%B0+Based+in+Sri+Lanka" alt="Typing SVG" />
