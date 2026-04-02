@@ -152,21 +152,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌟 Top Languages & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamath-Adithya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chamath-Adithya/Chamath-Adithya/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> 💡 *Set up the [snk](https://github.com/Platane/snk) GitHub Action to auto-generate this animation!*
 
 ---
 
