@@ -152,11 +152,14 @@
 
 ---
 
-## 🌟 Top Languages & Stats
+## 🌐 System Architecture Hub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamath-Adithya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="400" alt="Cybersecurity Matrix" />
+  <img src="https://media.giphy.com/media/VbO2BOSebwDIfmG1yM/giphy.gif" width="400" alt="UI Matrix" />
 </div>
+
+> **“The real danger is not that computers will begin to think like men, but that men will begin to think like computers.”**
 
 ---
 
