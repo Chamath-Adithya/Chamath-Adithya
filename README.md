@@ -1,7 +1,7 @@
 # Hi there, I'm Chamath Adithya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Crafting+the+Unseen+Architecture+%F0%9F%94%AE;Where+Code+Meets+Hardware+Meets+Security+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+That+Think+at+the+Edge+%E2%9A%A1;Some+Call+It+Engineering.+I+Call+It+Art.+%F0%9F%8E%AD;%F0%9F%87%B1%F0%9F%87%B0+Based+in+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Crafting+the+Unseen+Architecture+%F0%9F%94%AE;Where+Code+Meets+Hardware+Meets+Security+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+That+Think+at+the+Edge+%E2%9A%A1;Some+Call+It+Engineering.+I+Call+It+Art.+%F0%9F%8E%AD;%F0%9F%87%B1%F0%9F%87%B0+Based+in+Sri+Lanka" alt="Typing SVG" />
 </div>
 
 <div align="center">
