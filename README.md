@@ -1,7 +1,7 @@
 # Hi there, I'm Chamath Adithya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Crafting+the+Unseen+Architecture;Where+Code+Meets+Hardware+Meets+Security;Building+Systems+That+Think+at+the+Edge;Some+Call+It+Engineering.+I+Call+It+Art.;%F0%9F%87%B1%F0%9F%87%B0+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Crafting+the+Unseen+Architecture+%F0%9F%94%AE;Where+Code+Meets+Hardware+Meets+Security+%F0%9F%9B%A1%EF%B8%8F;Building+Systems+That+Think+at+the+Edge+%E2%9A%A1;Some+Call+It+Engineering.+I+Call+It+Art.+%F0%9F%8E%AD;%F0%9F%87%B1%F0%9F%87%B0+Based+in+Sri+Lanka" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" />
 </div>
 
 <details>
@@ -151,12 +151,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamath-Adithya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamath-Adithya&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chamath-Adithya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=Chamath-Adithya&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -219,7 +214,7 @@ With a strong foundation in full-stack development, IoT systems, and cybersecuri
 ### 🎮 **When I'm Not Coding**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="200" alt="Coffee & Code" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="200" alt="Coffee & Code" />
 </div>
 
 - 🎧 **Music Lover** - Electronic, Lo-fi, and Classical genres
